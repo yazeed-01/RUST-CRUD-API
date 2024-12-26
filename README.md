@@ -1,4 +1,4 @@
-# Rust CRUD API Example
+# Rust CRUD API 
 
 A simple CRUD API built using Rust. This project is designed for learning and practicing Rust programming, focusing on:
 - Modular code organization
@@ -22,7 +22,7 @@ A simple CRUD API built using Rust. This project is designed for learning and pr
   - `serde_derive` for deriving serialization traits
 
 ## Install dependencies 
-    `cargo build`
+    cargo build
 
 ## Run
-    `cargo run`
+    cargo run
